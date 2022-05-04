@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T14:06:58.619Z" agent="5.0 (X11)" etag="LUGbxmkg3s8tDZJehTv4" version="17.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-04T14:16:54.255Z" agent="5.0 (X11)" etag="RKdlkhEK35H7xIiZFu5I" version="17.5.0" type="github" pages="2">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="4013" dy="1528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -148,6 +148,18 @@
         <mxCell id="DeQmT3_htAKg_PisZt2I-70" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.0;endAngle=0.10;arcWidth=0.25;rotation=323;fillColor=#FFFFFF;strokeColor=#000000;container=0;fontColor=#ffffff;" vertex="1" parent="DeQmT3_htAKg_PisZt2I-65">
           <mxGeometry x="24" y="24" width="121.84300341296927" height="121.84300341296927" as="geometry" />
         </mxCell>
+        <mxCell id="DeQmT3_htAKg_PisZt2I-92" value="阳" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontSize=9;rotation=0;" vertex="1" parent="DeQmT3_htAKg_PisZt2I-65">
+          <mxGeometry x="118.97000000000003" y="49.96999999999994" width="19.97" height="8.97" as="geometry" />
+        </mxCell>
+        <mxCell id="DeQmT3_htAKg_PisZt2I-93" value="阳" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontSize=9;rotation=0;" vertex="1" parent="DeQmT3_htAKg_PisZt2I-65">
+          <mxGeometry x="119.97000000000003" y="109.96999999999994" width="19.97" height="8.97" as="geometry" />
+        </mxCell>
+        <mxCell id="DeQmT3_htAKg_PisZt2I-96" value="阴" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontSize=9;rotation=0;" vertex="1" parent="DeQmT3_htAKg_PisZt2I-59">
+          <mxGeometry x="29.970000000000027" y="49.97" width="19.97" height="8.97" as="geometry" />
+        </mxCell>
+        <mxCell id="DeQmT3_htAKg_PisZt2I-100" value="阴" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontSize=9;rotation=0;" vertex="1" parent="DeQmT3_htAKg_PisZt2I-59">
+          <mxGeometry x="29.966368075069113" y="109.96636807506911" width="19.97" height="10" as="geometry" />
+        </mxCell>
         <mxCell id="DeQmT3_htAKg_PisZt2I-71" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="310" y="100.00000000000001" width="230.25784475780347" height="230.25784475780344" as="geometry" />
         </mxCell>
@@ -165,6 +177,24 @@
         </mxCell>
         <mxCell id="9eq1W4PJI9Sx4SGhKkEa-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.0;endAngle=0.20;arcWidth=0.25;rotation=288;fillColor=#FF0000;strokeColor=#B20000;container=0;fontColor=#ffffff;" vertex="1" parent="DeQmT3_htAKg_PisZt2I-71">
           <mxGeometry x="32.70571418777547" y="32.70571418777544" width="164.84641638225256" height="164.84641638225256" as="geometry" />
+        </mxCell>
+        <mxCell id="DeQmT3_htAKg_PisZt2I-91" value="阳" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontSize=9;rotation=0;" vertex="1" parent="DeQmT3_htAKg_PisZt2I-71">
+          <mxGeometry x="87.00363192493089" y="60.00363192493087" width="19.97" height="8.97" as="geometry" />
+        </mxCell>
+        <mxCell id="DeQmT3_htAKg_PisZt2I-94" value="阳" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontSize=9;rotation=0;" vertex="1" parent="DeQmT3_htAKg_PisZt2I-71">
+          <mxGeometry x="90.00363192493091" y="162.00363192493086" width="19.97" height="8.97" as="geometry" />
+        </mxCell>
+        <mxCell id="DeQmT3_htAKg_PisZt2I-95" value="阳" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontSize=9;rotation=0;" vertex="1" parent="DeQmT3_htAKg_PisZt2I-71">
+          <mxGeometry x="52.003631924930914" y="110.64363192493089" width="19.97" height="8.97" as="geometry" />
+        </mxCell>
+        <mxCell id="DeQmT3_htAKg_PisZt2I-97" value="阴" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontSize=9;rotation=0;" vertex="1" parent="DeQmT3_htAKg_PisZt2I-71">
+          <mxGeometry x="120.00363192493091" y="60.00363192493087" width="19.97" height="8.97" as="geometry" />
+        </mxCell>
+        <mxCell id="DeQmT3_htAKg_PisZt2I-98" value="阴" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontSize=9;rotation=0;" vertex="1" parent="DeQmT3_htAKg_PisZt2I-71">
+          <mxGeometry x="159.00363192493091" y="110.64363192493089" width="19.97" height="8.97" as="geometry" />
+        </mxCell>
+        <mxCell id="DeQmT3_htAKg_PisZt2I-99" value="阴" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontSize=9;rotation=0;" vertex="1" parent="DeQmT3_htAKg_PisZt2I-71">
+          <mxGeometry x="120.00363192493091" y="162.00363192493091" width="19.97" height="8.97" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
