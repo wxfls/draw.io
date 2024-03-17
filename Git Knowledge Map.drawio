@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T03:37:38.591Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="jz9MxUPFQhCVju4_vh8-" version="24.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-17T03:44:20.667Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-S0jUX6Y9wUR_lt9VaWE" version="24.0.7" type="github" pages="2">
   <diagram name="Page-1" id="zJqC7b9IynARBR749QTm">
-    <mxGraphModel dx="1410" dy="1504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,11 +215,14 @@
         <mxCell id="27pTSMQi8Gh_r-mLNvT4-13" value="&lt;pre style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;git diff --cashed&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;gradientColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="27pTSMQi8Gh_r-mLNvT4-10">
           <mxGeometry x="30.5" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="27pTSMQi8Gh_r-mLNvT4-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Tag.svg;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="220" width="68" height="66.8" as="geometry" />
+        <mxCell id="27pTSMQi8Gh_r-mLNvT4-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-37.40000000000001" y="196" width="47.40000000000001" height="48.80000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="27pTSMQi8Gh_r-mLNvT4-19" value="Local&amp;nbsp;" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
-          <mxGeometry x="-45" y="210" width="60" height="20" as="geometry" />
+        <mxCell id="27pTSMQi8Gh_r-mLNvT4-22" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.file_system_browser;" vertex="1" parent="27pTSMQi8Gh_r-mLNvT4-24">
+          <mxGeometry y="4" width="44.8" height="44.8" as="geometry" />
+        </mxCell>
+        <mxCell id="27pTSMQi8Gh_r-mLNvT4-19" value="&lt;font color=&quot;#ffffff&quot;&gt;Local&amp;nbsp;&lt;/font&gt;" style="dashed=0;html=1;fillColor=none;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="27pTSMQi8Gh_r-mLNvT4-24">
+          <mxGeometry x="1.4210854715202004e-14" width="47.4" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
