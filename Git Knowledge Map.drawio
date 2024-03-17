@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T08:31:31.852Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9lpUzD5Jrgj_K0yMMwR-" version="24.0.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-17T08:44:23.266Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zU3_nTexELNz3oPcqE_h" version="24.0.7" type="github" pages="3">
   <diagram name="3 areas" id="zJqC7b9IynARBR749QTm">
     <mxGraphModel dx="1202" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -190,6 +190,11 @@
         <mxCell id="0hkWVxESS4iukIDbZFaX-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;local repository&lt;/font&gt;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8.199981689453125;fillColor=#99FFCC;flipH=0;flipV=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="kJBUjZroPzZevEXjZhLu-2" vertex="1">
           <mxGeometry y="440" width="100" height="60" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;git log&lt;/font&gt;" id="ZFvC5M6w4cuUYhDjQRLu-3">
+          <mxCell style="text;whiteSpace=wrap;html=1;align=center;fillColor=default;" vertex="1" parent="kJBUjZroPzZevEXjZhLu-2">
+            <mxGeometry x="10" y="80" width="70" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="kJBUjZroPzZevEXjZhLu-3" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="286" y="20" width="100" height="1100" as="geometry" />
         </mxCell>
@@ -215,7 +220,7 @@
           <mxGeometry y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZFvC5M6w4cuUYhDjQRLu-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;git status&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="kJBUjZroPzZevEXjZhLu-5">
-          <mxGeometry x="-2.4000000000000057" y="290" width="100" height="40" as="geometry" />
+          <mxGeometry x="-2.4000000000000057" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="27pTSMQi8Gh_r-mLNvT4-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="117.4" y="960" width="422.6" height="40" as="geometry" />
