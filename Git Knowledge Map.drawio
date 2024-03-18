@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T01:47:19.631Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" etag="G6xMiv6vlQuJE_CQdeA5" version="24.0.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-18T05:48:06.589Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" etag="gp0Y81pSIIrfCCbspjUQ" version="24.0.7" type="github" pages="4">
   <diagram name="3 areas" id="zJqC7b9IynARBR749QTm">
     <mxGraphModel dx="668" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -342,7 +342,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kYHmQPWxdQZRf9rzNEtF" name="git checkout">
-    <mxGraphModel dx="1197" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
