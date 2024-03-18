@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T01:32:47.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" etag="XaPo7AJfzlt3dYnGt4Yg" version="24.0.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-18T01:33:53.220Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" etag="pul8X_tQ3y9DrETtRHFx" version="24.0.7" type="github" pages="4">
   <diagram name="3 areas" id="zJqC7b9IynARBR749QTm">
     <mxGraphModel dx="668" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -342,7 +342,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kYHmQPWxdQZRf9rzNEtF" name="git checkout">
-    <mxGraphModel dx="504" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="611" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,7 +383,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QVTEAhEcmntK9gbx_Hyg-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;step 2: git checkout file1.py&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;discard changes in the file1.py&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="QVTEAhEcmntK9gbx_Hyg-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;step 2: &lt;font color=&quot;#ff0000&quot;&gt;git checkout file1.py&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;discard changes in the file1.py&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="85" y="163" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
