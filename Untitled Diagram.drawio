@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T00:45:22.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" etag="z_mPksfHkpTUByxTuH1A" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T01:45:25.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" etag="Kk61RRxFbXBXbfa9anTi" version="24.0.7" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1122" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,8 +91,10 @@
         <mxCell id="1772" value="Collaboration" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="940" y="460" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1771" value="Introduction to Git and Github" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="730" y="289.9999999999999" width="150" height="60" as="geometry" />
+        <mxCell id="1771" value="Introduction to Git and Github" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;container=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="289.9999999999999" width="150" height="60" as="geometry">
+            <mxRectangle x="730" y="289.9999999999999" width="230" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1773" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1772" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -120,6 +122,93 @@
         </mxCell>
         <mxCell id="eas432z8xvVSy5DKVcYl-1781" value="Automating Real-World Tasks with Python" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontStyle=1;spacing=5;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="270" y="455.25" width="120" height="85.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ofYes78XySD6svBbnEtc" name="Page-2">
+    <mxGraphModel dx="1272" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7A9Nsc4ex4pMhRbyFMyU-11" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;IT Automation with Python Professional Certification&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=50;strokeWidth=1;autosize=1;spacing=4;flipV=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="371" width="175" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="sSG0IadVRn5RAbSZcoSn-16" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="sSG0IadVRn5RAbSZcoSn-15" parent="1">
+          <mxGeometry x="790" y="324" width="80" height="20" as="geometry">
+            <mxPoint x="870" y="437.0000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSG0IadVRn5RAbSZcoSn-18" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="sSG0IadVRn5RAbSZcoSn-17" parent="1">
+          <mxGeometry x="790" y="530" width="80" height="20" as="geometry">
+            <mxPoint x="870" y="437.0000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSG0IadVRn5RAbSZcoSn-25" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;Using Python on Interact with the Operating System&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#e1d5e7;strokeColor=#9673a6;shape=ellipse;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="280" y="186" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sSG0IadVRn5RAbSZcoSn-26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="sSG0IadVRn5RAbSZcoSn-25" parent="1" source="7A9Nsc4ex4pMhRbyFMyU-11">
+          <mxGeometry x="583" y="278" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bFNeGJaWFLLYt5w_oQmf-9" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="sSG0IadVRn5RAbSZcoSn-27" target="bFNeGJaWFLLYt5w_oQmf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bFNeGJaWFLLYt5w_oQmf-10" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="sSG0IadVRn5RAbSZcoSn-27" target="bFNeGJaWFLLYt5w_oQmf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bFNeGJaWFLLYt5w_oQmf-11" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="sSG0IadVRn5RAbSZcoSn-27" target="bFNeGJaWFLLYt5w_oQmf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sSG0IadVRn5RAbSZcoSn-27" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;Introduction to Git and Github&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="332" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sSG0IadVRn5RAbSZcoSn-28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="sSG0IadVRn5RAbSZcoSn-27" parent="1" source="7A9Nsc4ex4pMhRbyFMyU-11">
+          <mxGeometry x="790" y="424" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="sSG0IadVRn5RAbSZcoSn-45" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;Troubleshooting and Debugging Techniques&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;shape=ellipse;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="280" y="478" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sSG0IadVRn5RAbSZcoSn-46" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="sSG0IadVRn5RAbSZcoSn-45" parent="1" source="7A9Nsc4ex4pMhRbyFMyU-11">
+          <mxGeometry x="295" y="411" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="sSG0IadVRn5RAbSZcoSn-47" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;Configuration Management and the Cloud&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#bac8d3;strokeColor=#23445d;shape=ellipse;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="280" y="619" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sSG0IadVRn5RAbSZcoSn-48" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="sSG0IadVRn5RAbSZcoSn-47" parent="1" source="7A9Nsc4ex4pMhRbyFMyU-11">
+          <mxGeometry x="295" y="411" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="sSG0IadVRn5RAbSZcoSn-49" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;Crash Course on Python&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;shape=ellipse;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sSG0IadVRn5RAbSZcoSn-50" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="sSG0IadVRn5RAbSZcoSn-49" parent="1" source="7A9Nsc4ex4pMhRbyFMyU-11">
+          <mxGeometry x="88" y="265" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="sSG0IadVRn5RAbSZcoSn-53" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;Automating Real-World Tasks with Python&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#cdeb8b;strokeColor=#36393d;shape=ellipse;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="280" y="765" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sSG0IadVRn5RAbSZcoSn-54" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="sSG0IadVRn5RAbSZcoSn-53" parent="1" source="7A9Nsc4ex4pMhRbyFMyU-11">
+          <mxGeometry x="295" y="411" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bFNeGJaWFLLYt5w_oQmf-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Introduction to Version Control&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="660" y="230" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFNeGJaWFLLYt5w_oQmf-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="bFNeGJaWFLLYt5w_oQmf-1" parent="1" source="sSG0IadVRn5RAbSZcoSn-27">
+          <mxGeometry x="600" y="334" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bFNeGJaWFLLYt5w_oQmf-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Using Git Locally&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="660" y="312" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFNeGJaWFLLYt5w_oQmf-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Working with Remotes&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="660" y="379" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFNeGJaWFLLYt5w_oQmf-14" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="bFNeGJaWFLLYt5w_oQmf-13" parent="1" source="sSG0IadVRn5RAbSZcoSn-27">
+          <mxGeometry x="600" y="334" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PBflZLoCEYWwPeGmd2yE-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Collaboration&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="660" y="458" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PBflZLoCEYWwPeGmd2yE-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="PBflZLoCEYWwPeGmd2yE-5" parent="1" source="sSG0IadVRn5RAbSZcoSn-27">
+          <mxGeometry x="600" y="334" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
