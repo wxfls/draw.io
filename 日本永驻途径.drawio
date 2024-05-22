@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T09:53:50.386Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0iwg3UHYnXOtH3t2n2Ti" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T10:00:42.438Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="wM9r5nhPRqjtnGY_P9cY" version="24.4.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="954" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="HyvyjcW-Y3temF30Cyy7-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyvyjcW-Y3temF30Cyy7-56" target="HyvyjcW-Y3temF30Cyy7-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HyvyjcW-Y3temF30Cyy7-56" value="留学" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HyvyjcW-Y3temF30Cyy7-56" value="读语言学校" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="90" width="260" height="180" as="geometry" />
         </mxCell>
         <mxCell id="HyvyjcW-Y3temF30Cyy7-57" value="就读半年安达日语学校" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyvyjcW-Y3temF30Cyy7-56">
